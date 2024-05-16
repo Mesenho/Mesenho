@@ -5,8 +5,11 @@
 - 👉 Programming is my passion and it's what I learned as a kid with structured languages like Basic, Cobol, Pascal, etc.
 - 💭 Now, meanwhile I find a job, I take advantage of the time to recycle myself.
 
- My email address is: 📧 ironet.jmr@gmail.com
+ » My email address is: 📧 ironet.jmr@gmail.com
 
+ 
+ » Explore my LinkedIn profile for knowing more about me: https://www.linkedin.com/in/josemiguelredondoromero/
+ 
 <!---
 Mesenho/Mesenho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
